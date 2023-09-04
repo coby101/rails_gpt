@@ -1,2 +1,2 @@
 # rails_gpt
-Simple rails app with ChatGPT integration
+A learning exercise, create a simple rails CharGPR API app
